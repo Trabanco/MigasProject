@@ -13,7 +13,7 @@ export default class productFilterData{
                 this.myProductArray.push(myProductlData = new productModelo(
                     myProductData.id,
                     myProductData.nombre,
-                    myProductData.product,
+                    myProductData.category,
                     myProductData.image,
                     myProductData.info)); 
             }

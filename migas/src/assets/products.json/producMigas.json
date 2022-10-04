@@ -1,114 +1,114 @@
 "productMigas": [
     {
-      "id": 1,
+      "id": 5,
       "nombre": " Pan de jengibre rápido",
       "product": " Bizcocho",
-      "image": "./image/Pan de jengibre rapido.jpg ",
+      "image": "./image/Pan_de_jengibre_rapido.jpg ",
       "info": "seria la receta"
     },
     {
-      "id": 2,
+      "id": 6,
       "nombre": " Pastel real",
       "product": "Bizcocho",
-      "image":"./image/Pastel real.jpg",
+      "image":"./image/Pastel_real.jpg",
       "info":""
     },
     {
-      "id": 3,
+      "id": 7,
       "nombre": " Pastel de semillas de amapola ",
       "product": "Bizcocho",
-      "image":"./image/Pastel de semillas de amapola.jpg ",
+      "image":"./image/Pastel_de_semillas_de_amapola.jpg ",
       "info":""
     },
     {
-      "id": 4,
+      "id": 8,
       "nombre": " Estrella con semillas de amapola",
       "product": "Bizcocho ",
-      "image":"./image/Estrella con semillas de amapola.jpg ",
+      "image":"./image/Estrella_con-semillas_de_amapola.jpg ",
       "info":" "
     },
     {
-      "id": 5,
+      "id": 9,
       "nombre": "Kanelbullar ",
       "product": "Bizcocho ",
       "image":"./image/kanelbullar.jpg ",
       "info":" "
     },
     {
-      "id": 6,
+      "id": 10,
       "nombre": "Stollen ",
       "product": "Bizcocho ",
       "image":"./image/Stollen.jpg ",
       "info":" "
     },
     {
-      "id": 7,
+      "id": 11,
       "nombre": "Metrowiec ",
       "product": "Tarta ",
       "image":"./image/Metrowiec.jpg ",
       "info":" "
     },
     {
-      "id": 8,
+      "id": 12,
       "nombre": "Murzynek con queso ",
       "product": "Tarta ",
-      "image":"./image/Murzynek con queso.jpg ",
+      "image":"./image/Murzynek_con_queso.jpg ",
       "info":" "
     },
     {
-      "id": 9,
+      "id": 13,
       "nombre": "Pan de jengibre antiguo ",
       "product": "Tarta ",
-      "image":"./image/Pan de jengibre antiguo.jpg ",
-      "info":" "
-    },
-    {
-      "id": 10,
-      "nombre": "Pastel de budin con manzana ",
-      "product": "Tarta ",
-      "image":"./image/pastel de budin con manzana.jpg ",
-      "info":" "
-    },
-    {
-      "id": 11,
-      "nombre": "Pastel de ciruelas ",
-      "product": "Tartas ",
-      "image":"./image/pastel de ciruelas.jpg ",
-      "info":" "
-    },
-    {
-      "id": 12,
-      "nombre": "Pastel de nuez y chocolate ",
-      "product": "Tarta ",
-      "image":"./image/Pastel de nuez y chocolate.jpg",
-      "info":" "
-    },
-    {
-      "id": 13 ,
-      "nombre": "Pastel semillas de amapola y queso ",
-      "product": "Tarta ",
-      "image":"./image/Pastel semillas de amapola y queso.jpg ",
+      "image":"./image/Pan_de_jengibre_antiguo.jpg ",
       "info":" "
     },
     {
       "id": 14,
-      "nombre": "Tarta amapola con almendra y manzana ",
+      "nombre": "Pastel de budin con manzana ",
       "product": "Tarta ",
-      "image":"./image/Tarta amapola con almendra y manzana.jpg ",
+      "image":"./image/pastel_de_budin_con_manzana.jpg ",
       "info":" "
     },
     {
       "id": 15,
-      "nombre": "Pastel de queso y amapola ",
-      "product": "Tarta ",
-      "image":"./image/Pastel de queso y amapola.jpg",
+      "nombre": "Pastel de ciruelas ",
+      "product": "Tartas ",
+      "image":"./image/pastel_de_ciruelas.jpg ",
       "info":" "
     },
     {
       "id": 16,
+      "nombre": "Pastel de nuez y chocolate ",
+      "product": "Tarta ",
+      "image":"./image/Pastel_de_nuez_y_chocolate.jpg",
+      "info":" "
+    },
+    {
+      "id": 17 ,
+      "nombre": "Pastel semillas de amapola y queso ",
+      "product": "Tarta ",
+      "image":"./image/Pastel_semillas_de_amapola_y_queso.jpg ",
+      "info":" "
+    },
+    {
+      "id": 18,
+      "nombre": "Tarta amapola con almendra y manzana ",
+      "product": "Tarta ",
+      "image":"./image/Tarta_amapola_con_almendra_y_manzana.jpg ",
+      "info":" "
+    },
+    {
+      "id": 19,
+      "nombre": "Pastel de queso y amapola ",
+      "product": "Tarta ",
+      "image":"./image/Pastel_de_queso_y_amapola.jpg",
+      "info":" "
+    },
+    {
+      "id": 20,
       "nombre": "Tarta de manzana con chocolate y nueces ",
       "product": "Tarta ",
-      "image":"./image/Tarta de manzana con chocolate y nueces.jpg ",
+      "image":"./image/Tarta_de_manzana_con_chocolate_y_nueces.jpg ",
       "info":" "
     },
     {

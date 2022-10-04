@@ -16,7 +16,7 @@ import { mapState } from 'pinia';
         <div class="row row-cols-1 row-cols-md-3 g-3">
             <div class="col">
                 <div class="card" style="width: 22rem;">
-                <img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt="">
+                <figure><img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt=""></figure>
                     <div class="card-body">
                         <h5 class="card-title">Szlokta</h5>
                         <p class="card-text">Tarta de manzana.</p>
@@ -26,7 +26,7 @@ import { mapState } from 'pinia';
             </div>
             <div class="col">
                 <div class="card" style="width: 22rem;">
-                <img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt="">
+                    <figure><img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt=""></figure>
                     <div class="card-body">
                         <h5 class="card-title">Szlokta</h5>
                         <p class="card-text">Tarta de manzana.</p>
@@ -36,7 +36,7 @@ import { mapState } from 'pinia';
             </div>
             <div class="col">
                 <div class="card" style="width: 22rem;">
-                <img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt="">
+                    <figure><img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt=""></figure>
                     <div class="card-body">
                         <h5 class="card-title">Szlokta</h5>
                         <p class="card-text">Tarta de manzana.</p>
@@ -56,6 +56,10 @@ import { mapState } from 'pinia';
 </template>
     
 <style scoped>
-      
+.card > figure {
+    width: 100%;
+    height: 70%;
+    overflow: hidden;
+}     
     
 </style>

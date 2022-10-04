@@ -1,7 +1,7 @@
 export default class productModelo {
     id;
     name;
-    product;
+    category;
     image;
     info;
 
@@ -9,7 +9,7 @@ export default class productModelo {
     {
         this.id = id;
         this.name = name;
-        this.product = product;
+        this.category = category;
         this.image = image;
         this.info = info;
     }
