@@ -22,7 +22,8 @@ public class Product {
     private Long id;
     private String name;
     private String category;
-
+    private String info;
+    private String instructions;
     private String image;
 
 
