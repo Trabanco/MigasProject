@@ -5,12 +5,12 @@
 
 
 <template> 
-    <nav class="navbar navbar-expand-md navbar-light bg-dark">
+    <nav class="navbar navbar-expand-md navbar-light ">
       <div class="container-fluid">
           <a href="#" class="navbar-brand-expand-md">
             <img alt="Migas logo" class="logo" src="../assets/logoMigasSinFondo.png" width="100" height="100" />
-            <RouterLink to="/"> "MIGAS" </RouterLink>
-            <span class="text-warning"> 😜 Por cual me decido...... ✨</span>
+            <RouterLink to="/"> "MIGAS"</RouterLink>
+            <span class="text-warning  font-italic"> 😜 Por cual me decido...... ✨</span>
           </a>
           <button class="navbar-toggler" type="button" 
             data-bs-toggle="collapse" 
@@ -47,9 +47,10 @@
 <style >
     nav {
   background-color:transparent;
-  font-size: 12px;
+  font-size: 17px;
+  text-shadow: 1px 1px #fff;
   text-align: center;
-  margin-top: 2rem;
+  /* margin-top: 2rem; */
   margin: 0;
   padding:0.2rem 1rem;
  /* display: flex; */
@@ -57,7 +58,6 @@
 nav.navbar{
  background: transparent;
 }
-
 
 
 

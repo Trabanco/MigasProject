@@ -1,7 +1,8 @@
 export default class productDataApi{
 
     constructor(){
-        this.url = "../assets/products.json/producMigas.json"
+        this.url = "../assets/products.json/producMigas.json";
+        
     }
 
     async getAllData(){
@@ -14,3 +15,6 @@ export default class productDataApi{
         }
     }
 }
+
+
+// this.url = "http://localhost:8080/api/v1/product";

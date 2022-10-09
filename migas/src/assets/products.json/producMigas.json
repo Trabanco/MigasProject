@@ -2,121 +2,138 @@
     {
       "id": 5,
       "nombre": " Pan de jengibre rápido",
-      "product": " Bizcocho",
+      "category": " Bizcocho",
       "image": "./image/Pan_de_jengibre_rapido.jpg ",
-      "info": "seria la receta"
+      "info": "serian los ingredientes",
+      "instructions":"seria la receta"
     },
     {
       "id": 6,
       "nombre": " Pastel real",
-      "product": "Bizcocho",
+      "category": "Bizcocho",
       "image":"./image/Pastel_real.jpg",
-      "info":""
+      "info":"serian los ingredientes",
+      "instructions":"seria la receta"
     },
     {
       "id": 7,
       "nombre": " Pastel de semillas de amapola ",
-      "product": "Bizcocho",
+      "category": "Bizcocho",
       "image":"./image/Pastel_de_semillas_de_amapola.jpg ",
-      "info":""
+      "info":"serian los ingredientes",
+      "instructions":"seria la receta"
     },
     {
       "id": 8,
       "nombre": " Estrella con semillas de amapola",
-      "product": "Bizcocho ",
+      "category": "Bizcocho ",
       "image":"./image/Estrella_con-semillas_de_amapola.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 9,
       "nombre": "Kanelbullar ",
-      "product": "Bizcocho ",
+      "category": "Bizcocho ",
       "image":"./image/kanelbullar.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 10,
       "nombre": "Stollen ",
-      "product": "Bizcocho ",
+      "category": "Bizcocho ",
       "image":"./image/Stollen.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 11,
       "nombre": "Metrowiec ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/Metrowiec.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 12,
       "nombre": "Murzynek con queso ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/Murzynek_con_queso.jpg ",
-      "info":" "
+      "info":"serian los ingredientes",
+      "instructions":"seria la receta"
     },
     {
       "id": 13,
       "nombre": "Pan de jengibre antiguo ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/Pan_de_jengibre_antiguo.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 14,
       "nombre": "Pastel de budin con manzana ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/pastel_de_budin_con_manzana.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 15,
       "nombre": "Pastel de ciruelas ",
-      "product": "Tartas ",
+      "category": "Tartas ",
       "image":"./image/pastel_de_ciruelas.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 16,
       "nombre": "Pastel de nuez y chocolate ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/Pastel_de_nuez_y_chocolate.jpg",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 17 ,
       "nombre": "Pastel semillas de amapola y queso ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/Pastel_semillas_de_amapola_y_queso.jpg ",
-      "info":" "
+      "info":"serian los ingredientes",
+      "instructions":"seria la receta"
     },
     {
       "id": 18,
       "nombre": "Tarta amapola con almendra y manzana ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/Tarta_amapola_con_almendra_y_manzana.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 19,
       "nombre": "Pastel de queso y amapola ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/Pastel_de_queso_y_amapola.jpg",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": 20,
       "nombre": "Tarta de manzana con chocolate y nueces ",
-      "product": "Tarta ",
+      "category": "Tarta ",
       "image":"./image/Tarta_de_manzana_con_chocolate_y_nueces.jpg ",
-      "info":" "
+      "info":"serian los ingredientes ",
+      "instructions":"seria la receta"
     },
     {
       "id": ,
       "nombre": " ",
-      "product": " ",
+      "product": " category",
       "image":" ",
-      "info":" "
+      "info":" serian los ingredientes",
+      "instructions":"seria la receta"
     },
     {
       "id": ,

@@ -1,5 +1,5 @@
-import marvelCharacterModel from "./productModelo.js";
-import marvelDataApi from "./producDataApi.js";
+import productModel from "./productModelo.js";
+import productDataApi from "./producDataApi.js";
 import productModelo from "./productModelo.js";
 export default class productFilterData{
     myProductArray = []
@@ -15,7 +15,8 @@ export default class productFilterData{
                     myProductData.nombre,
                     myProductData.category,
                     myProductData.image,
-                    myProductData.info)); 
+                    myProductData.info,
+                    myProductData.instructions)); 
             }
         });
         return this.myProductArray;

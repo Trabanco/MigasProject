@@ -1,4 +1,4 @@
-<script setup>
+<script >
 import { useCounterStore } from "../stores/counter.js";
 
 import productFilterData from '../js/productFilterData.js'
@@ -31,7 +31,7 @@ export default {
   </div>
 
  
-  <main>
+  <!-- <main>
     <div class="horintotalScroll">
       <div class="card" v-for="data in productData" :key="data.index">
         <img :src="data.sm" :alt="data.name" :title="data.name" :id="data.id">
@@ -42,7 +42,7 @@ export default {
         </div>
       </div>
     </div>
-  </main>
+  </main> -->
 
 
 
