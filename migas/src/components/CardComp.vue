@@ -35,8 +35,8 @@ import { mapState } from 'pinia';
                 <div class="card shadow " style="width: 18rem;">
                 <img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Szlokta</h5>
-                        <p class="card-text">Tarta de manzana.</p>
+                        <h5 class="card-title">Tarta de manzana</h5>
+                        <p class="card-text">Tarta</p>
                         <a href="#" class="btn btn-primary">Smacznego</a>
                     </div>
                 </div>   
@@ -45,8 +45,8 @@ import { mapState } from 'pinia';
                 <div class="card shadow" style="width: 18rem;">
                     <img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Szlokta</h5>
-                        <p class="card-text">Tarta de manzana.</p>
+                        <h5 class="card-title">Tarta de manzana</h5>
+                        <p class="card-text">Tarta</p>
                         <a href="#" class="btn btn-primary">Smacznego</a>
                     </div>
                 </div>   
@@ -55,8 +55,8 @@ import { mapState } from 'pinia';
                 <div class="card shadow" style="width: 18rem;">
                     <img src="../assets/czekoladowa-szarlotka-2-1140x1710.jpg" alt="">
                     <div class="card-body">
-                        <h5 class="card-title">Szlokta</h5>
-                        <p class="card-text">Tarta de manzana.</p>
+                        <h5 class="card-title">Tarta de manzana</h5>
+                        <p class="card-text">Tarta</p>
                         <a href="#" class="btn btn-primary">Smacznego</a>
                     </div>
                 </div>   

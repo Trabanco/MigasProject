@@ -1,4 +1,3 @@
-import productModel from "./productModelo.js";
 import productDataApi from "./producDataApi.js";
 import productModelo from "./productModelo.js";
 export default class productFilterData{
@@ -8,9 +7,9 @@ export default class productFilterData{
     }
     async getData(){
         const data = await this.repository.getAllData()
-        data.forEach(myProductlData => {
+        data.forEach(myProductData => {
             if (myProductData.biography.publisher == "Migas Product") {
-                this.myProductArray.push(myProductlData = new productModelo(
+                this.myProductArray.push(myProductData = new productModelo(
                     myProductData.id,
                     myProductData.nombre,
                     myProductData.category,

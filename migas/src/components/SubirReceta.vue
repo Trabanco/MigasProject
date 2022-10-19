@@ -1,9 +1,10 @@
-<script setup>
+<script >
 import { mapState, mapActions } from "pinia"
 import { useCounterStore } from "../stores/counter.js";
 import CardComp from "./CardComp.vue";
-import CorazonFavorite from "./CorazonFavorite.vue";
+
 import CardComp from "./CardComp.vue";
+import RecetaFavorite from "./RecetaFavorite.vue";
 
 
 export default {
@@ -15,7 +16,7 @@ export default {
 
     }
   },
-  components: { useCounterStore},
+  components: {useCounterStore},
   methods:{
     ...mapActions(useCounterStore,['addFavorite']),
   }
@@ -35,7 +36,7 @@ export default {
         <div class="color">
           <p>{{ data.name }}</p>
           <span @click="addFavorite(data)">
-            <CorazonFavorite />
+            <RecetaFavorite />
           </span>
         </div>
       </div>

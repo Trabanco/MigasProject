@@ -7,7 +7,12 @@ export default class productModelo {
     instructions;
 
 
-    constructor(id, nombre, product, image, info) 
+    constructor(id,
+         nombre,
+         category,
+         image, 
+         info,
+         instructions) 
     {
         this.id = id;
         this.nombre = nombre;

@@ -26,25 +26,20 @@ export default {
 </script>
 
 <template>
-  <div>
-    <h1>Product List</h1>
-  </div>
-
- 
-  <!-- <main>
+  <header>
+    <h1>All Product List</h1>
+  </header>
+  <main>
     <div class="horintotalScroll">
-      <div class="card" v-for="data in productData" :key="data.index">
+      <div class="card" v-for="data in productlData" :key="data.index">
         <img :src="data.sm" :alt="data.name" :title="data.name" :id="data.id">
         <div class="color">
           <p>{{ data.name }}</p>
-          <span @click="addFavorite(data)">
-          </span>
+          <span @click="addFavorite(data)"></span>
         </div>
       </div>
     </div>
-  </main> -->
-
-
+  </main>
 
 </template>
 
